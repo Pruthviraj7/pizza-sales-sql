@@ -1,4 +1,4 @@
-```markdown
+
 # SQL Query Analysis for Pizza Sales Data
 
 ## 1. Total Number of Orders
